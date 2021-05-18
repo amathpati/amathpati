@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @amathpati
+- 👋 Hi, I’m Akanksha Mathpati.
 - 👀 I’m interested in programming and web development.
 - 🌱 I’m currently learning python and javascript libraries.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
 
 <!---
