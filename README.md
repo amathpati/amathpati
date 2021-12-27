@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akanksha Mathpati.
-- 👀 I’m interested in programming and web development.
+- 👀 Frontend Web Developer.
 - 🌱 I’m currently learning python.
 
 <!---
